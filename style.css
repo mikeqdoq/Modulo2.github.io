@@ -1,0 +1,23 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: gray;
+}
+
+.estilo {
+    background-color: #f9f9f9;   /* Color de fondo suave */
+    border: 2px solid #6C63FF;   /* Borde de color con un tono destacado */
+    border-radius: 10px;         /* Bordes redondeados */
+    padding: 20px;               /* Espaciado interno */
+    margin: 20px 0;              /* Espaciado externo */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Sombra ligera */
+    font-family: 'Arial', sans-serif; /* Fuente clara y legible */
+    font-size: 1.1em;            /* Tamaño de texto moderado */
+    color: #333;                 /* Color del texto */
+    text-align: center;         /* Justificado para mejor legibilidad */
+}
